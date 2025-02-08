@@ -27,5 +27,3 @@ Proje içeriğinden bazı ekran görüntüleri:
 ![Ana Sayfa](https://picsum.photos/id/99/600/300)
 ![Ürünler](https://picsum.photos/id/98/600/300)
 
-## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
